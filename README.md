@@ -1,7 +1,11 @@
 # Puzzle3D
 
+[issue currently tracking](https://github.com/pyvista/pyvista-support/issues/338)
+
 [goal](https://blog.prusaprinters.org/wp-content/uploads/2019/04/taranaki-800.gif)
 [blog](https://blog.prusaprinters.org/print-your-own-3d-puzzles_29817/)
+
+[get 3d model](https://touchterrain.geol.iastate.edu/?DEM_name=JAXA%2FALOS%2FAW3D30%2FV2_2&hsazi=315&hselev=45&maptype=roadmap&gamma=1&transp=20&hsazi=315&hselev=45&map_lat=15.937554910403955&map_lon=105.9102078&map_zoom=6&trlat=44.746076744164014&trlon=-107.90408989257813&bllat=44.45273016368441&bllon=-108.32981010742188&tilewidth=80&ntilesx=1&ntilesy=1&printres=0.4&basethick=1&zscale=1.0&fileformat=STLb&manual=&polyURL=)
 
 [view kml](http://kmlviewer.nsspot.net)
 [vietnam kml](https://data.opendevelopmentmekong.net/en/organization/6f37a27d-2790-4b9a-8570-a36cb1d8108f?res_format=KML)
