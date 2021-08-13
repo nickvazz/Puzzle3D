@@ -1,0 +1,10 @@
+pandas
+jupyter
+pyvista
+shapely
+seaborn
+sklearn
+trimesh
+numpy
+matplotlib
+triangle

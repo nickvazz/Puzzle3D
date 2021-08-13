@@ -1,5 +1,15 @@
 # Puzzle3D
 
+## Building the container
+```bash
+docker build --platform linux/amd64 -t puzzle3d:latest . 
+```
+
+## Running the container
+```bash
+docker run --platform linux/amd64 -v /Users/nickvazz/Code/Puzzle3D/:/home/Puzzle3D -p 8888:8888 puzzle3d:latest
+```
+
 [issue currently tracking](https://github.com/pyvista/pyvista-support/issues/338)
 
 [goal](https://blog.prusaprinters.org/wp-content/uploads/2019/04/taranaki-800.gif)
